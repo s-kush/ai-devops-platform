@@ -1,0 +1,2 @@
+[hosts]
+host_name ansible_host=host_ip ansible_user=username ansible_port=port
